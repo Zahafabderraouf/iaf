@@ -1,0 +1,372 @@
+div .aii {
+    background-color: rgb(53, 153, 160);
+    width: 100%;
+    height: 662px;
+    border-radius: 13px;
+    margin-top: 0px;
+    position: relative;
+    ;
+}
+
+.cntc {
+    margin-left: 80%;
+    font-size: 22px;
+    margin-top: 20px;
+    position: absolute;
+
+}
+
+.cnt {
+    margin-left: 36px;
+    margin-top: -35px;
+}
+
+
+
+
+.hr1 {
+    background-color: aliceblue;
+    width: 532px;
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: 0;
+    margin-bottom: 5px;
+
+}
+
+.am {
+    display: block;
+}
+
+.head {
+    color: black;
+    text-shadow: 2px 0 0 rgb(39, 38, 38);
+    cursor: pointer;
+    font-size: 45px;
+    margin-top: 8px;
+    padding-top: 4px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition-duration: 2s;
+}
+
+.head:hover {
+    letter-spacing: 4px;
+    transition-duration: 2s;
+}
+
+.head1:hover {
+    letter-spacing: 4px;
+    transition-duration: 2s;
+}
+
+.head1 {
+    color: black;
+    text-shadow: 2px 0 0 rgb(39, 38, 38);
+    cursor: pointer;
+    font-size: 45px;
+    margin-top: 0px;
+    border-top: 0;
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-left: 650px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hr2 {
+    background-color: aliceblue;
+    width: 438px;
+    margin-top: 0px;
+    margin-left: 654px;
+    margin-right: 0;
+    margin-bottom: 5px;
+}
+
+.and {
+    margin-left: 597px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0px;
+    border: 0px;
+}
+
+div .ass {
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    animation-name: assa;
+    animation-duration: 1.2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    margin-bottom: 40px;
+}
+
+@keyframes assa {
+    0% {
+        opacity: calc(0%);
+    }
+
+    100% {
+        opacity: calc(100%);
+    }
+}
+
+.li1 {
+    margin-left: 100px;
+
+}
+
+.li2 {
+    margin-left: 490px;
+    margin-top: -280px;
+
+}
+
+.li3 {
+    margin-left: 950px;
+    margin-top: -280px;
+
+}
+
+.l1 {
+    margin-left: -34px;
+    margin-top: 30px;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.l2 {
+    margin-left: 60px;
+    cursor: pointer;
+    font-size: 40px;
+    margin-top: 22px;
+}
+
+.l3 {
+    margin-left: -40px;
+    cursor: pointer;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.shead a img {
+    border-radius: 16px;
+}
+
+.shead p:hover {
+    word-spacing: 02px;
+}
+
+.panga {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4px;
+
+}
+
+div .pg,
+.pgg,
+.pggg {
+    margin-left: 26px;
+    margin-right: 26px;
+    animation-name: a;
+    animation-duration: 0.6s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+div .a1:hover,
+.a2:hover,
+.a3:hover {
+    filter: blur(2px);
+}
+
+
+.panga .pgg {
+    animation-delay: 0.2s;
+}
+
+.panga .pggg {
+    animation-delay: 0.4s;
+}
+
+@keyframes a {
+    0% {
+        opacity: calc(0%);
+    }
+
+    100% {
+        opacity: calc(100%);
+    }
+}
+
+.lbl {
+    font-size: 40px;
+    margin: 5px 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+
+.hr3 {
+    background-color: aliceblue;
+    margin-bottom: 18px;
+    width: 264px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.brr {
+    height: 5px;
+}
+
+.ieee {
+    background-color: rgb(158, 186, 203);
+    width: 100%;
+    height: 220px;
+    background-image: url(../project/i;gs/gettyimages-1150039017-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.ieee .iee {
+    margin: auto 15px
+}
+
+.iep {
+    font-size: 40px;
+    width: 550px;
+    margin-left: 375px;
+    margin-top: -138px;
+    color: aliceblue;
+    transition-duration: 2s;
+    cursor: pointer;
+
+}
+
+.iep:hover {
+    margin-top: -148;
+    word-spacing: 4px;
+    transition-duration: 2s;
+}
+
+.su {
+    margin-top: 22px;
+    margin-left: 1%;
+    background-image: url(../project/i;gs/0_OGfnU3Cpsufp5ZzM.jfif);
+    background-size: contain;
+    border-radius: 13px;
+    height: 490px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.su1 {
+    background-color: rgb(151, 192, 192);
+    width: 350px;
+    height: 450px;
+    margin-left: 5%;
+    border-radius: 14px;
+    margin-top: 0px;
+
+}
+
+.su2 {
+    width: 350px;
+
+    background-color: rgb(132, 160, 180);
+    height: 450px;
+    margin-left: 35%;
+    margin-top: -450px;
+    border-radius: 14px;
+
+}
+
+
+
+.su3 {
+    width: 350px;
+    background-color: rgb(132, 160, 180);
+    background-color: rgb(70, 125, 133);
+    height: 450px;
+    margin-left: 65%;
+    margin-top: -450px;
+    border-radius: 14px;
+}
+
+.pytt {
+    margin-left: 12px;
+    margin-right: 18px;
+    margin-top: -28px;
+
+}
+
+.su222 {
+    margin: 0 15px;
+    margin-top: -9px;
+}
+
+.start {
+    font-size: 40px;
+    margin-left: 17%;
+    margin-top: 75px;
+}
+
+.vs {
+    margin-left: 15.6px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.VSS {
+    font-size: 40px;
+    margin-left: 4%;
+    margin-top: 25px;
+}
+
+.bgg {
+    font-size: 40px;
+    margin-left: 8%;
+    margin-top: 55px;
+}
+
+.vs:hover,
+.pytt:hover,
+.su222:hover {
+    filter: blur(2px);
+}
+
+.wawa {
+    width: 100%;
+    height: 290px;
+    background-image: url(../project/i;gs/chris.jpg);
+    margin-top: 20px;
+    border-radius: 12px;
+}
+
+.wan {
+    font-size: 60px;
+    margin-left: 300px;
+    margin-top: -150px;
+    background-image: url(../project/i;gs/download.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 932px;
+    border-radius: 5px;
+}
+
+.wvv:hover {
+    filter: blur(2px);
+}
+
+.wvv {
+    margin-left: 25px;
+    margin-top: 20px;
+
+
+}

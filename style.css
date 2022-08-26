@@ -1,0 +1,467 @@
+body {
+  background-image: url(../project/i;gs/images.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  height: 2000px;
+}
+
+.hh {
+  background-color: #abdac8;
+  border-radius: 15px;
+  height: 70px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: space-between;
+}
+
+span {
+  padding-top: 12px;
+  padding: 0;
+  border: 0;
+  cursor: pointer;
+}
+
+span:hover {
+  zoom: 1.14;
+}
+
+.nav a {
+  margin-left: 18px;
+  text-decoration: none;
+  color: #458f74;
+  font-size: 25px;
+  background-color: #abdac8;
+
+}
+
+.nav a:hover {
+  font-size: 22px;
+  filter: blur(1px);
+}
+
+nav {
+  margin-right: 60px;
+
+}
+
+.ard {
+  margin-right: 320px;
+  margin-left: 50;
+  font-size: 60px;
+  color: #458f74;
+  cursor: pointer;
+}
+
+.ard:hover {
+  font-size: 62px;
+  filter: blur(3px);
+}
+
+.whatis {
+  border: 13px solid white;
+  margin-top: -40px;
+  background-color: rgb(157, 172, 172);
+  width: 270px;
+  position: absolute;
+  border-radius: 30px;
+
+
+}
+
+.whatis .wh {
+  font-size: 20px;
+  border-left: 53px solid rgb(157, 172, 172);
+
+}
+
+.whatis .c {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: auto;
+  font-size: 26px;
+}
+
+.tu {
+  border: 13px solid white;
+  background-color: rgb(157, 172, 172);
+  width: 277px;
+  height: 300;
+  margin: 0;
+  border-radius: 30px;
+  left: 300px;
+  position: relative;
+  margin-top: 50px;
+
+}
+
+.tu .w {
+  font-size: 20px;
+  border-left: 23px solid rgb(157, 172, 172);
+}
+
+.tu .cc {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: auto;
+  font-size: 26px;
+}
+
+.tu .pic {
+  border-left: 30px solid rgb(157, 172, 172);
+
+}
+
+.ta {
+  border: 13px solid white;
+  background-color: rgb(157, 172, 172);
+  width: 277px;
+  height: 300;
+  margin: 0;
+  border-radius: 30px;
+  left: 603px;
+  position: relative;
+  top: -300px;
+  margin-top: 50px;
+
+}
+
+.ta .pica {
+  border-left: 30px solid rgb(157, 172, 172);
+}
+
+.ta .cca {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: auto;
+  font-size: 26px;
+}
+
+.ta .wa {
+  font-size: 20px;
+  border-left: 29px solid rgb(157, 172, 172);
+}
+
+.tp {
+  border: 13px solid white;
+  background-color: rgb(157, 172, 172);
+  width: 277px;
+  height: 300;
+  margin: 0;
+  border-radius: 30px;
+  left: 906px;
+  position: relative;
+  top: -600px;
+  margin-top: 50px;
+
+}
+
+.tp .picp {
+  border-left: 30px solid rgb(157, 172, 172);
+}
+
+.tp .ccp {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: auto;
+  font-size: 26px;
+}
+
+.tp .wp {
+  font-size: 20px;
+  border-left: 68px solid rgb(157, 172, 172);
+}
+
+nav a:hover {
+  background-color: rgb(254, 254, 254);
+  border: 1px solid rgb(135, 241, 200);
+  border-radius: 10px;
+  padding: 1px;
+}
+
+.tp:hover,
+.ta:hover,
+.tu:hover,
+.whatis:hover {
+
+  padding: 8px;
+  border: 1px solid rgb(157, 172, 172);
+  transition-duration: 0.4s;
+
+}
+
+span:hover {
+  background-size: 90px;
+
+}
+
+.whatis:hover,
+.tp:hover,
+.ta:hover,
+.tu:hover {
+  box-shadow: 0 1px 1px rgb(0 0 0 / 20%);
+}
+
+.zm {
+  display: flex;
+  justify-content: center;
+  display: block;
+  position: relative;
+  margin-left: 390px;
+  margin-top: -280px;
+  padding-top: 6px;
+  border: 0;
+
+
+
+}
+
+
+.zm .guid {
+  margin-left: -30px;
+  margin-bottom: -4px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+  cursor: pointer;
+  width: 200px;
+  color: #043772;
+}
+
+.zm .wamp {
+  cursor: pointer;
+  animation-name: wammm;
+  animation-duration: 2.44444444s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes wammm {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  25% {
+    transform: rotate(5deg);
+  }
+
+  50% {
+    transform: rotate(0deg);
+  }
+
+  75% {
+    transform: rotate(-5deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.zm .wamp:hover {
+  filter: blur(4px);
+}
+
+.pic:hover,
+.pii:hover,
+.pica:hover,
+.picp:hover {
+  filter: blur(4px);
+}
+
+.guid:hover {
+  filter: contrast(2);
+  filter: blur(0.8px);
+  animation-name: hgaa;
+
+}
+
+
+.hograa {
+  margin-left: 1029px;
+  margin-top: 0px;
+  animation-name: hgaa;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-direction: alternate;
+}
+
+@keyframes hgaa {
+  0% {
+    margin-left: 1023px;
+  }
+
+  100% {
+    margin-left: 900px;
+  }
+}
+
+.hogra {
+  margin-left: 25px;
+  margin-top: 0px;
+  animation-name: hga;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-direction: alternate;
+}
+
+@keyframes hga {
+  0% {
+    margin-left: 25px;
+  }
+
+  100% {
+    margin-left: 82px;
+  }
+}
+
+.pt {
+  display: inline;
+}
+
+.pp {
+  width: 500px;
+  margin: 60px auto 0;
+  margin-top: -150px;
+}
+
+.ff {
+  margin-left: 10px;
+}
+
+.pp .ken {
+  height: 60px;
+}
+
+.pt a {
+  margin-left: 0px;
+}
+
+.pt a:hover {
+  zoom: 1.04;
+}
+
+.ffp {
+  margin-left: 32px;
+  margin-top: 8px;
+}
+
+.sfp {
+  margin-left: 90px;
+  margin-top: -57px;
+}
+
+.spp {
+  margin-left: 70px;
+  margin-top: -56px;
+
+}
+
+.bcp {
+  margin-left: 40px;
+  margin-top: 0px;
+
+}
+
+.gcp {
+  margin-left: 35px;
+
+}
+
+.gc:hover,
+.bc:hover,
+.sp:hover,
+.sf:hover,
+.ff:hover {
+  filter: blur(2px);
+}
+
+.ffp,
+.sfp,
+.spp,
+.bcp,
+.gcp {
+  font-size: 30px;
+  cursor: pointer;
+
+}
+
+.ffp:hover {
+  font-size: 31px;
+
+}
+
+.sfp:hover {
+  font-size: 31px;
+
+}
+
+.spp:hover {
+  font-size: 31px;
+
+}
+
+.bcp:hover {
+  font-size: 31px;
+
+}
+
+.gcp:hover {
+  font-size: 31px;
+
+}
+
+.pes {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.pes:hover {
+  zoom: 1.1;
+}
+
+.by {
+  width: 100%;
+  height: 340px;
+  background-color: #abdac8;
+  border-radius: 20px;
+}
+
+.by .tryyy {
+  display: flex;
+  justify-content: center;
+  text-shadow: 2px 0 0 rgb(95, 81, 116);
+}
+
+li {
+  width: 70%;
+  margin-bottom: 10px;
+}
+
+.som:hover {
+  zoom: 1.05;
+}
+
+.som {
+  cursor: pointer;
+}
+
+.cnthkjk {
+  margin-left: 80%;
+  font-size: 22px;
+  margin-top: 20px;
+  position: absolute;
+  background-color: rgb(132, 160, 180);
+  background-color: rgb(70, 125, 133);
+
+}
